@@ -1,0 +1,20 @@
+div.main-header {
+  background-color: #4A90E2;
+  color: #fff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 40px;
+  height: 60px;
+}
+
+div.main-header div.profile {
+  display: flex;
+  align-items: center;
+}
+
+div.main-header div.profile p {
+  font-weight: bold;
+  padding: 0 8px;
+}
